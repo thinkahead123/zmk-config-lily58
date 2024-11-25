@@ -20,3 +20,4 @@ include:
 
   - board: cyber60@B
     keymap: config/boards/arm/cyber60/cyber60.keymap
+
